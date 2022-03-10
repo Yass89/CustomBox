@@ -1,0 +1,5 @@
+driver=mysql
+hostname=localhost
+dbname=pham37u
+user=pham37u
+pass=duong
